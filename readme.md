@@ -1,1 +1,1 @@
-This repo contains the raw chapters for Cultivating in secret beside a demoness.
+This repo is being to develop an NER that can help me in creating a grlossary for MTL.
